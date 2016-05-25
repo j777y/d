@@ -1,0 +1,3 @@
+import CommentBot
+
+CommentBot.run()
